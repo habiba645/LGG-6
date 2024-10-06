@@ -1,16 +1,2 @@
-# nasa
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# LGG-6
+Our project aims to make agriculture easier for farmers by providing an easy tool to deal with the probable cause of the problems they notice on their crops by providing them with recognition for the type of pests that cause problems and giving tips on how to deal with these pests. 
